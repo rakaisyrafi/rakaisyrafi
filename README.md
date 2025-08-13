@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="100%" width="100%" src="./perrel.jpg"  />
+</div>
+
+
 # 💫 About Me:
 - 💻 web Developer Enthusiast !<br>- 🔭 I’m studying at SMKN 8 Semarang<br>- 📚 I'm currently learning Laravel<br>- 🧐 I'm currently learning Software Photoshop & After Effect<br>- ⚡ Also Design graphic
 
