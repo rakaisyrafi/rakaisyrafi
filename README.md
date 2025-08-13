@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100%" width="100%" src="./perrel.jpg"  />
+  <img height="250px" width="250px" src="./perrel.jpg"  />
 </div>
 
 
